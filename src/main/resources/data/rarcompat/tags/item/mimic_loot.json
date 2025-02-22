@@ -24,6 +24,6 @@
     "artifacts:golden_hook", "artifacts:onion_ring", "artifacts:pickaxe_heater",
     "artifacts:withered_bracelet", "artifacts:bunny_hoppers", "artifacts:kitty_slippers",
     "artifacts:running_shoes", "artifacts:snowshoes", "artifacts:steadfast_spikes",
-    "artifacts:flippers", "artifacts:rooted_boots"
+    "artifacts:flippers"
   ]
 }
